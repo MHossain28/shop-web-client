@@ -1,0 +1,9 @@
+.nab-btn:hover{
+    background-color: whitesmoke;
+    color: gray;
+    transition: 1s;
+   
+}
+.nab-btn{
+    margin-left: 10px;
+}
