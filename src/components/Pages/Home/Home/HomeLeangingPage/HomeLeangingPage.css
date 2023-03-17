@@ -1,0 +1,10 @@
+.leandingPageIn{
+    
+    width: 80%;
+    margin: auto;
+    height: 200px;
+    position: relative;
+    top: 120px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+}

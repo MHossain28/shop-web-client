@@ -1,0 +1,14 @@
+
+.name-btn{
+    position: relative;
+    bottom: 50px;
+    font-weight: bold;
+    padding: 10px;
+    border: 1px solid gray;
+    text-align: center;
+}
+
+.name-btn:hover{
+    color: gray;
+    background-color: whitesmoke;
+}

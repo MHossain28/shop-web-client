@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "./Navbar.css";
 import { AiOutlineDown } from "react-icons/ai";
+import logo1 from "../../../assets/logo/logo2.jpg";
 
 const Navbar = () => {
   const menuItem = (
@@ -38,9 +39,7 @@ const Navbar = () => {
             <AiOutlineDown></AiOutlineDown>
           </button>
         </div>
-        <div className="navbar-center">
-          <Link className="text-2xl">Online Store</Link>
-        </div>
+
         <div className="navbar-end">
           <Link to="/login" className="btn btn-ghost ">
             Sign In

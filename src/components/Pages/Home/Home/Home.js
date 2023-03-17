@@ -1,7 +1,14 @@
 import React from "react";
+import CardComponent from "../CardComponent/CardComponent";
+import HomeLeangingPage from "./HomeLeangingPage/HomeLeangingPage";
 
 const Home = () => {
-  return <div>home components</div>;
+  return (
+    <div>
+      <HomeLeangingPage></HomeLeangingPage>
+      <CardComponent></CardComponent>
+    </div>
+  );
 };
 
 export default Home;

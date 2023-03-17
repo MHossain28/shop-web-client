@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Men",
+        "id": 1,
+        "img": "https://cdn.shopify.com/s/files/1/0106/2721/9522/files/bn-1-1_1920x1920.jpg?v=1614331006"
+    },
+    {
+        "name": "Women",
+        "id": 2,
+        "img": "https://cdn.shopify.com/s/files/1/0106/2721/9522/files/bn-1-2_1920x1920.jpg?v=1614331006"
+    },
+    {
+        "name": "Phone Case",
+        "id": 3,
+        "img": "https://cdn.shopify.com/s/files/1/0106/2721/9522/files/bn-1-3_1920x1920.jpg?v=1614331006"
+    },
+    {
+        "name": "Home & Living",
+        "id": 4,
+        "img": "https://cdn.shopify.com/s/files/1/0106/2721/9522/files/bn-1-4_1920x1920.jpg?v=1614331006"
+    },
+    {
+        "name": "Youth & Baby",
+        "id": 5,
+        "img": "https://cdn.shopify.com/s/files/1/0106/2721/9522/files/bn-1-5_1920x1920.jpg?v=1614331006"
+    },
+    {
+        "name": "Pillow Case",
+        "id": 6,
+        "img": "https://cdn.shopify.com/s/files/1/0106/2721/9522/files/bn-1-6_1920x1920.jpg?v=1614331006"
+    }
+]
