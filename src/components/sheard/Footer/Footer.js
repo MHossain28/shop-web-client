@@ -1,8 +1,11 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import { toast } from "react-toastify";
 import "./Footer.css";
 
 const Footer = () => {
+  const notify = () => toast("Wow so easy!");
+
   return (
     <div>
       <footer className="footer p-10 bg-cyan-700 text-base-content footer-css">
@@ -17,8 +20,12 @@ const Footer = () => {
                 type="text"
                 placeholder="username@site.com"
                 className="input input-bordered w-full pr-16"
+                required
               />
-              <button className="btn btn-info absolute top-0 right-0 rounded-l-none">
+              <button
+                onClick={notify}
+                className="btn btn-info absolute top-0 right-0 rounded-l-none"
+              >
                 Subscribe
               </button>
             </div>
